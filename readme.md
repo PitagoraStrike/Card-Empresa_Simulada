@@ -1,4 +1,4 @@
-# Frontend Mentor- Card de Victor Crest
+# Frontend Mentor- Card de estadisticas para Empresa simulada
 
 ![](https://scontent.fmex33-1.fna.fbcdn.net/v/t39.30808-6/271669333_1226190914537902_3675879884832050765_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeFZjWN_r4-8LqhWGNyAUD17t2THhIbkc6u3ZMeEhuRzq0Uvk9_kFHs8aijGJ5edOEbmR-AcpDEPeAg9YSRQe1ap&_nc_ohc=uzHqNoQB2esAX9u5x55&_nc_ht=scontent.fmex33-1.fna&oh=00_AT8FiPvQgsoY_JzLXfT17upeABNQ8bsMaHdW9Y2VKCxp4Q&oe=61E2F309)
 
