@@ -14,13 +14,14 @@ El desafío es desarrollar esta tarjeta con vista previa de estadísticas para u
 
 ### PROCESO
 - Construido con Marcado HTML5 semántico
-- Propiedades personalizadas de CSS
+- Propiedades personalizadas de CSS(propiedades de imagenes y su transparencia)
 - Uso de FLEXBOX
-- Responsive Design
+- Responsive Design para varias resoluciones
 
 ### HABILIDADES ADQUIRIDAS
 
 - Ver el diseño óptimo para el sitio según el tamaño de pantalla de su dispositivo(Responsive Design)
+- Manipular el comportamiento de las imagenes
 - Ver estados de desplazamiento para todos los elementos interactivos en la página
 - Capaz de la manipulacion de contenedores e items con la sintaxis FLEXBOX
 
