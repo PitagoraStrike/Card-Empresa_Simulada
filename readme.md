@@ -25,8 +25,12 @@ El desafío es desarrollar esta tarjeta con vista previa de estadísticas para u
 - Ver estados de desplazamiento para todos los elementos interactivos en la página
 - Capaz de la manipulacion de contenedores e items con la sintaxis FLEXBOX
 
+### LINK
+Solution URL:  [https://designcardpitagorastrike.netlify.app/](https://designcardpitagorastrike.netlify.app/)
+
 ### ¿COMENTARIOS?
 Si tienes comentarios o dudas no dudes en escribirme en mis redes sociales
+
 
 ### AUTOR
 - Frontend Mentor - @PitagoraStrike
